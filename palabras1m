@@ -1,0 +1,125 @@
+PALABRAS CON V:
+
+VAR $ noun $ variable $ marca variables de programas y similares $ 1 $ tag $\\
+
+ValueError $ adjective $ error de valor $ cuando una variable tiene un valor incorrecto puede ser el tipo o el mismo nombre $ 1 $ tag $\\
+
+vector $ noun $ vector $ contiene una serie de valores del mismo tipo $ 1 $ tag $\\
+
+vector2i $ noun $ vector $ igual que vector pero recibe 2 enteros $ 1 $ tag $\\
+
+vector3i $ noun $ vector $ igual que vector pero recibe 3 enteros $ 1 $ tag $\\
+
+vector2f $ noun $ vector $ igual que vector pero recibe 2 flotantes $ 1 $ tag $\\
+
+vector3f $ noun $ vector $ igual que vector pero recibe 3 flotantes $ 1 $ tag $\\
+
+varying $ adjective $ variar $ del tipo de datos CHARACTER VARYING (m,r) contiene una secuencia de m bytes como máximo o de r bytes como mínimo $ 1 $ tag $\\
+
+vim$noun $ empuje$es una versión mejorada del editor de texto vi, presente en todos los sistemas UNIX $ 1 $ tag$\\
+
+
+
+PALABRAS CON U:
+
+
+
+union $ noun$ union $ estructura parecida a struct $ 1 $ tag $\\
+
+UnboundLocalError $ adjective $ error local $ cuando una variable en python esta fuera de su alcance $ 1 $ tag $\\
+
+unsigned $ adjetive $ sin signo $ des-signa una variable $ 1 $ tag $\\
+
+uuidof $ noun $ uuidof $ recupera el GUID adjunto a la expresión $ 1 $ tag $\\
+
+uint $ adjective $ uint $  se usa para declarar números enteros de 32 bits sin signo $ 1 $ tag $\\
+
+ulong $ adjective $ ulong $ se usa para declarar números enteros de 64 bits sin signo $ 1 $ tag $\\
+ 
+unchecked $ adjective $ desenfrenado $ suprime  la comprobación de desbordamiento para operaciones aritméticas de tipo integral y conversiones $ 1 $ tag $\\
+
+unsafe $ adjective $ inseguro $  contexto inseguro que se requiere para cualquier operación que involucre punteros $ 1 $ tag $\\
+
+USAGE $ verb $ uso $ se utiliza para designar una base externa como base de datos actual, en otras palabras, la base a la cual se dirigirán las próximas consultas $ 1 $ tag $\\
+
+ushort  $ adjective $ ushort $ declara números enteros de 16 bits sin signo $ 1 $ tag $\\
+
+using $ adjective $ utilizando $ La instrucción using define un ámbito al final del cual se eliminará un objeto. La directiva using crea un alias para un espacio de nombres o importa tipos definidos en otros espacios de nombres. La directiva estática using importa los miembros de una sola clase $ 1 $ tag $\\
+
+until $ preposition $ hasta $ asi idéntico al bucle loop, excepto en que el código se ejecuta mientras la expresión de control se evalúe como falsa $ 1 $ tag $\\
+
+use $ verb $ utilizar $ si no se desea tener que escribir siempre Pila_Enteros.Poner para llamar a dicho procedimiento desde fuera del paquete, se puede utilizar la cláusula use. Hace visible directamente el contenido de un paquete Usado en el lenguaje ADA $ 1 $ tag $\\
+
+undef $ adjective  $ undef $ crea un método indefinido en la clase contemporánea $ 1  tag $\\
+
+unless $ adjective $ unless $ ejecuta un bloque de código si la declaración condicional es false $ 1 $ tag\\
+
+UID $ noun $ UID $ el valor numerico real del usuario actual $ 1 $ tag $\\
+
+ulimit $ adjective $ ulimit $ Define/muestra los limites de recursos para los procesos $ 1 $ tag $\\
+
+umask $ adjetive $ define/muestra la mascara de los permisos de ficheros $ 1 $ tag $\\
+
+unalias $ noun $ unalias $ remueve definiciones de alias $ 1 $ tag $\\
+
+unset $ noun $ unset $ remueve definiciones de variables o funciones $ 1 $ tag $\\
+
+UNPIVOT $ noun $ unpivot $ realiza la operación opuesta a PIVOT girando las columnas de una expresión con valores de tabla en valores de columna $ 1 $ tag\\
+
+UNIQUE $ noun $ único $ identifica de manera única a cada fila de una tabla $ 1 $ tag $\\
+
+UPDATE $ noun $ actualizar $ cambia los datos de uno o más registros en una tabla $ 1 $ tag $\\
+
+UL $ noun $  lista sin ordenar $ las listas no ordenadas van dentro de ul $ 1 $ tag $\\
+
+U $ noun $ subrayado $ muestra el texto subrayado $ 1 $ tag $\\
+
+
+PALABRAS CON X:
+
+xor $ noun $ xor $ OR exclusiva, es una puerta lógica digital que implementa el o exclusivo $ 1 $ tag $\\
+
+
+PALABRAS CON Y:
+
+
+yield $ noun $ rendimiento $ ejecuta un bloque pasado a un método $ 1 $ tag $\\
+
+YEAR $ noun $ año $ retorna un entero que representa el año de un dato especifico $ 1 $ tag $\\
+
+
+PALABRAS W:
+
+write $ verb $ escribir $ escribe caracteres en un txt $ 1 $ tag $\\
+
+with $ preposition $ con $ si una unidad se compila aparte (método usual si se va a utilizar en más programas), se puede hacer referencia a dicha unidad (cuya especificación y cuerpo pueden estar en ficheros distintos) mediante la cláusula with $ 1 $ tag $\\
+
+when $ adverb $ cuando $ inicia una clausula debajo de under $ 1 $ tag $\\
+
+WHERE $ adverb $ donde $ especifica criterios que tienen que cumplir los valores de campo para que los registros que contienen los valores se incluyan en los resultados de la consulta $ 1 $ tag $\\
+
+while $ adverb $ minetras $ estructura de control ejecuta un bucle $ 1 $ tag $\\
+
+warning $ noun $ advertencia $ Normalmente, los mensajes de advertencia se emiten en situaciones en las que es útil alertar al usuario sobre alguna condición en un programa, donde esa condición (normalmente) no garantiza que se genere una excepción y finalice el programa. Por ejemplo, uno podría querer emitir una advertencia cuando un programa utiliza un módulo obsoleto $ 
+wait $ verb $ esperar $ espera a que trabajos/procesos en background terminen de ejecutarse $ 1 $  tag $\\
+
+WAITFOR $ noun $ waitfor $ waitfor esperará a que aparezca un archivo $ 1 $ tag $\\
+
+WITHOUT $ preposition $ sin $ futura entrada en SQL $ 1 $ tag $\\
+
+WITHIN $ adverb $ adentro $ futura entrada en SQL $ 1 $ tag $\\
+
+WHENEVER $ adverb $ cuando quiera $ Este mandato permite detectar los errores y controlar el comportamiento de CLPPlus realizando acciones especificadas como EXIT o CONTINUE $ 1 $ tag $\\
+
+
+
+PALABRAS CON Z:
+
+ZONE $ noun $ zona $ Convierte una fecha de entrada al valor de datetimeoffset correspondiente en la zona horaria de destino $ 1 $ tag $\\
+
+ZeroDivisionError $ adjective $ cero division $  indica que el segundo argumento utilizado en una operación de división (o módulo) era cero $ 1 $ tag $\\
+
+ 
+
+ 
+
